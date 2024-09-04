@@ -27,8 +27,4 @@ SO THAT I can learn more about SQL and how different modules work
 
 ## Walkthrough
 
-The following video shows an example of the application being used from the command line:
-
-
-
-© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+The following video shows an example of the application being used from the command line: https://youtu.be/nu65RRPIetE
