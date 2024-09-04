@@ -1,0 +1,21 @@
+{
+  "name": "employeetracker",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console": "^0.7.2",
+    "inquirer": "^10.1.8",
+    "mysql2": "^3.11.0",
+    "pg": "^8.12.0",
+    "table": "^6.8.2"
+  }
+}
